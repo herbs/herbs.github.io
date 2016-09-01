@@ -1,0 +1,44 @@
+body {font-size: medium;
+}
+h1, h2 {font-weight: normal;
+	color: #cc6600;
+	border-bottom: thin dotted #888888;
+}
+h1 {
+	font-size: 170%;
+}
+h2 {
+	font-size: 130%;
+}
+table {
+	margin-left: 10px;
+	margin-right: 10px;
+	border: thin dotted gray;
+	border-collapse: collapse;
+}
+th, td {
+	border: thin dotted gray;
+	padding: 4px;
+}
+th {
+		background-color: #cc6600;
+}
+.cellcolor {
+	background-color: #fcba7a;
+}
+.opt {
+	background-color: silver;
+}
+#syntax {
+	font: "Courier New";
+	font-size: large;
+}
+.center {
+	text-align: center;
+}
+.right {
+	text-align: right;
+}
+#ask {
+	text-align: right;
+}
