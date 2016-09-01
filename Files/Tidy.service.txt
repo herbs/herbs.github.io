@@ -1,0 +1,1 @@
+The Tidy Service will prettify any selected text in a (La)TeX file. Place in ~/Library/Services, log out and back in and then make it active by checking the box in System Preferences->Keyboard->Shortcuts under Services. Tidy will then show up under the Services sub-menu in the Contextual Menu.

@@ -1,0 +1,1 @@
+A Drop Script to convert .pgn (chess notion) files into .tex files using the skak chess package. Embeds the pgn2ltx program.

@@ -1,0 +1,1 @@
+Contains information about two important changes that are contained in TeX Live 2014 and later. If you download this file you should probably also download the `Eps-Tiff-Conversion2014+.pdf.zip' document. No longer mentions `convert' from since it is no longer installed by MacTeX-2014 and later.

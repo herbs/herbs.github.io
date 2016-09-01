@@ -1,0 +1,1 @@
+Drop Scripts that produce an html document, displayed in your default browser, containing statistics about your .tex file. Embeds the texcount program. Now using texcount 3.0.

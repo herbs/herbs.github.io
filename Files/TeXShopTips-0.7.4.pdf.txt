@@ -1,0 +1,1 @@
+Latest version of TeXShop Tips and Tricks. Additional information on Syntax Coloring (including \index{...} commands), Spell Checking, Experimenting and full tables of Command Completions supplied by default in TeXShop.

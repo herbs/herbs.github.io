@@ -1,0 +1,1 @@
+A package that supplies a scalable courier font. Based on the helvet package for Helvetica. (Part of TeX Live.)

@@ -1,0 +1,1 @@
+Original Command Completion files. Historical only. Not needed for TeXShop 2.30 and later.

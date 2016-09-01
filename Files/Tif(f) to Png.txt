@@ -1,0 +1,1 @@
+A Drop Script for converting (multiple or folders containing) .tif(f) files to .png for use with pdflatex.

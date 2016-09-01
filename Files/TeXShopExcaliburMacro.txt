@@ -1,0 +1,1 @@
+A TeXShop Macro to run the Excalibur LaTeX-aware Spell Checker by Michael Sharpe (with minor changes by Herb Schulz).

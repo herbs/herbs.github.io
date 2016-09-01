@@ -1,0 +1,1 @@
+A Quicklook generator to be ONLY used with TeXShop 3.14 (and later). After unzipping place the file in ~/Library/QuickLook and re-boot your system.

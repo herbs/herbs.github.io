@@ -1,0 +1,1 @@
+A short document about the differences between three features of TeXShop; Key Bindings (at one time called Auto-Completion), Macros and Command Completion.

@@ -1,0 +1,1 @@
+Two versions of the Delete Auxiliary Files Macros updated by Michael Sharpe (with a small change by me) that delete most (e.g., not .pdf, .bbl, etc.) and all types of auxiliary files.

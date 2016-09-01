@@ -1,0 +1,1 @@
+Configuration file for using advanced glossaries features with TeXShop's latexmk engines. Includes installation instructions and a project configuration file to restore compatibility with the (deprecated) glossary package.

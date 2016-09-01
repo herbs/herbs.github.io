@@ -1,0 +1,1 @@
+A Quick Start Guide for using Command Completion in TeXShop.

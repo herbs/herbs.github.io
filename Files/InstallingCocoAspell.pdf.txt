@@ -1,0 +1,1 @@
+A fix for a first time install of cocoAspell under Yosemite or El Capitan.

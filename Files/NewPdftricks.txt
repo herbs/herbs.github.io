@@ -1,0 +1,1 @@
+Edited version of the pdftricks package that does a better job of creating a BoundingBox and adds other features.

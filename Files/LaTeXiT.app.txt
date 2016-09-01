@@ -1,0 +1,1 @@
+A version of LaTeXiT.app 2.8.1 that doesn't interfere with the operation of QLColorCode.qlgenerator (available below).

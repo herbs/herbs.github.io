@@ -1,0 +1,1 @@
+A Drop Script to create a TeX file showing the differences between two versions of a file. Embeds the latexdiff utility.

@@ -1,0 +1,1 @@
+Tables of the default Command Completion Abbreviations supplied with TeXShop. These also exist in the full documentation.

@@ -1,0 +1,1 @@
+A TeXShop macro for quickly opening files that are referenced in \include, \input, \usepackage, \documentclass, etc., commands. This version requires TeX Live 2015 (as installed by MacTeX-2015) and is needed for use with OS X 10.11, El Capitan.
