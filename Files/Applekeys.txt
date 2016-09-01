@@ -1,1 +1,1 @@
-Package with images of several of the Apple Key Symbols.
+Package with images of several of the Apple Key Symbols. 
