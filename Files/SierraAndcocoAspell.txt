@@ -1,0 +1,1 @@
+At least temporarily the cocoAspell LaTeX-aware System Spelling Preference Pane fails. It is hoped that it will eventually get fixed but, for now, here is a TeXShop Macro (and configuration file) that uses the underlying aspell program.
