@@ -1,1 +1,1 @@
-At least temporarily the cocoAspell LaTeX-aware System Spelling Preference Pane fails. It is hoped that it will eventually get fixed but, for now, here is a TeXShop Macro (and configuration file) that uses the underlying aspell program.
+NOTE: cocoAspell 2.5 now installs and works properly under El Capitan and later so this Macro is no longer needed to use aspell. This is a TeXShop Macro (and configuration file) that uses the underlying aspell program.
