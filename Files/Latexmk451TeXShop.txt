@@ -1,1 +1,0 @@
-Implementation of latexmk 4.51 for TeXShop. All files necessary to update to latexmk 4.51 from a previous version; includes latexmk 4.51; no other files have been changed from the 4.40h distribution. Engines allow a project configuration file called platexmkrc in the same directory as the project root file.
