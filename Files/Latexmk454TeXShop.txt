@@ -1,0 +1,1 @@
+Implementation of latexmk 4.54 for TeXShop. All files necessary to update to latexmk 4.54 from a previous version; includes latexmk 4.54. Engines allow a project configuration file called platexmkrc in the same directory as the project root file. Now includes the updated engine files that use TeXShop's `parameter' declaration.
