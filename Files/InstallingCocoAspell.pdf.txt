@@ -1,1 +1,1 @@
-A fix for a first time install of cocoAspell under Yosemite or El Capitan. NOTE: Under El Capitan You can update to cocoAspell 2.5 and eliminate the problem.
+There may be a problem doing a first time installation of the dictionaries supplied with cocoAspell. This document describes a method to complete the dictionary installation and then be able to use cocoAspell's Spelling Preferfence Pane in System Preferences.
