@@ -1,1 +1,1 @@
-There may be a problem doing a first time installation of the dictionaries supplied with cocoAspell. This document describes a method to complete the dictionary installation and then be able to use cocoAspell's Spelling Preferfence Pane in System Preferences.
+There may be a problem doing a first time installation of the dictionaries supplied with cocoAspell. This document describes a method to complete the dictionary installation and then be able to use cocoAspell's Spelling Preference Pane in System Preferences.
