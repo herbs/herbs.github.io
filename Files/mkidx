@@ -2,7 +2,8 @@
 import os, sys, glob, time, datetime
 from stat import ST_MTIME
 
-fn=glob.glob('*.dmg')+glob.glob('*.zip')
+#fn=glob.glob('*.dmg')+glob.glob('*.zip')
+fn=sorted(glob.glob('*.dmg')+glob.glob('*.zip'),key=str.lower)
 fnshort=[f[0:-4] for f in fn]
 k=len(fnshort)
 fntext=['']*k
