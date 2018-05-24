@@ -1,1 +1,1 @@
-Latest version of `A Beginner's Guide to File Encoding & TeXShop'.
+Latest version of `A Beginner's Guide to File Encoding & TeXShop'. Updated for TeXShop 4.00 and later.
