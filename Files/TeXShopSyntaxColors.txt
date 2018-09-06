@@ -1,1 +1,1 @@
-Scripts with documentation for changing the colors used in TeXShop's Syntax Coloring. Of course there is a script to return to the defaults if you don't like my color scheme.
+Scripts with documentation for changing the colors used in TeXShop's Syntax Coloring. Of course there is a script to return to the defaults if you don't like my color scheme. Also contains a Color Theme and instructions for use with TeXShop 4.08 and later.
