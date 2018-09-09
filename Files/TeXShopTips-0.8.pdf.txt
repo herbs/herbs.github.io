@@ -1,0 +1,1 @@
+Latest version of TeXShop Tips and Tricks. Additional information on setting the Default Dictionary for Spell Checking and use of the Console window. Information about Syntax Coloring with TeXShop 4.08 and later.
