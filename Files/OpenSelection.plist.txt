@@ -1,1 +1,1 @@
-A TeXShop macro for quickly opening files that are referenced in \include, \input, \usepackage, \documentclass, etc., commands.
+A TeXShop macro for quickly opening files that are referenced in \include, \input, \usepackage, \documentclass, etc., commands. Added \addbibresource to the list (used by the biblatex package).
