@@ -1,1 +1,1 @@
-Contains information about two important changes that are contained in TeX Live 2017 and later. If you download this file you should probably also download the `Eps-Tiff-Conversion2017+.pdf.zip' document. Uses `updmap-user` rather than `updmap` for updating map files for fonts in your personal tree.
+Contains information about an important change that is contained in TeX Live 2019. If you download this file you should probably also download the `Eps-Tiff-Conversion2019.pdf.zip' document.
