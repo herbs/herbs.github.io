@@ -1,0 +1,1 @@
+A platexmkrc file for use with the pdflatexmk engine in TeXShop. Place the line `% !TEX program = pdflatexmk` at the top of your Source file. Add the platexmkrc file to the same folder as your Source file. finally, just typeset using Typeset->Typeset (Cmd-T) and all the processing will get done automatically.
