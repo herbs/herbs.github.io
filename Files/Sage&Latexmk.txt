@@ -1,0 +1,1 @@
+Instructions for installing the SageMath application and a platexmkrc for use with TeXShop's (pdf/xe/lua)latexmk engines.
