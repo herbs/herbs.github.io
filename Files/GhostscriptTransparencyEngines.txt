@@ -1,0 +1,1 @@
+Recent versions of Ghostscript need an extra argument to enable transparency for pstricks and processing by latex->dvips->ps2pdf. Enclosed are two engines (latexTR.engine and latexTRmk.engine) and a special rc file for the latter engine. Instructions of where to place the three files are enclosed.
