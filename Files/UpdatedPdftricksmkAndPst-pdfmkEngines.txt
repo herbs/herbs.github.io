@@ -1,0 +1,1 @@
+The rarely used latexmk based engines for TeXShop dealing with the pdftricks and pst-pdf packages needed updating for recnt versions of Ghostscript. Simply place the enclosed files in the directed folders in ~/Library/TeXShop.
