@@ -1,1 +1,1 @@
-Edited version of the pdftricks package that does a better job of creating a BoundingBox and adds other features.
+Edited version of the pdftricks package that does a better job of creating a BoundingBox and adds other features. Added a version that has a fix for transparency with Ghostscript versions >9.50.
