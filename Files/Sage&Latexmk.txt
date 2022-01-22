@@ -1,1 +1,1 @@
-Instructions for installing the SageMath application and a platexmkrc for use with TeXShop's (pdf/xe/lua)latexmk engines. The install information is for SageMath 9.4 and later.
+Instructions for installing the SageMath application and a platexmkrc for use with TeXShop's (pdf/xe/lua)latexmk engines. The install information is for SageMath 9.5 (at rc2 on 2022/01/22) and later.
