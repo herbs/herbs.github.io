@@ -1,1 +1,1 @@
-Information and sample document for binding unused OS X text framework methods to keystrokes.
+Information and sample document for binding unused OS X text framework methods to keystrokes. Webloc updated to point to Git repository since the original page has gone away.
