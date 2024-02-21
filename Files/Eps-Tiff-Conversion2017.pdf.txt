@@ -1,1 +1,0 @@
-For MacTeX (TeX Live) 2017 and later. A document describing the changes to eps & tiff conversion, etc., using pdflatex. All references to using `convert' have been removed since MacTeX-2014 and later no longer install that software. There are changes to the texmf.cnf file for 2017 when that method is used instead of `--shell-escape'.
